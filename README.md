@@ -14,6 +14,8 @@ Currently I'm doing mathematics research under the Kedlaya group at UCSD. More i
 <br><br><br><br><br>
 
 ## Notable Projects
+- **[TinyMinecraft](https://github.com/ThomasSpradling/TinyMinecraft)** (C++, OpenGL)
+  - A simple graphics project in implementing a tiny subset of Minecraft from scratch.
 - **[CHIP-8 Emulator](https://github.com/ThomasSpradling/chip-8-emulator)** (C++, Emscripten, TypeScript, TailwindCSS)
   - A toy emulator for the CHIP-8 instruction set to allow playing of classic games like tetris, space invaders, and more.
 - **[Path.ly](https://github.com/ThomasSpradling/learning-path-logger)** (Next.js, TypeScript, Prisma, TailwindCSS, Vercel)
@@ -35,23 +37,6 @@ Currently I'm doing mathematics research under the Kedlaya group at UCSD. More i
 - **[Burger Clickers](https://github.com/ThomasSpradling/burger_clickers)** (HTML, CSS, JavaScript)
   - An addictive Cookie Clickers clone that based around hamburgers and equipped with leveling menus and a massive number system.
 
-## Computer Science Coursework and Books
-### Completed ✅
-- **Berkeley CS 61C:** Great Ideas in Computer Architecture
-- **MIT 6.S081:** Operating System Engineering
-- *Computer Networking: A Top-Down Approach*
-- **MIT 8.824:** Distributed Systems
-- **Cornell CS 6120:** Advanced Compilers
-- **UCSD CSE 131:** Compilers
-- **MIT 6.006:** Introduction to Algorithms
-### Working On ⌛
-- **CMU 15-213:** Introduction to Computer Systems
-- **Berkeley CS 162:** Operating Systems and System Programming
-- **Berkeley CS 186:** Introduction to Database Systems
-- **Stanford CS 143:** Compilers
-- **CMU 15-462:** Computer Graphics
-### Future 🤔
-- **Stanford CS 144:** Introduction to Computer Networking
 - **Berkeley CS 188:** Introduction to Artificial Intelligence
 - **Stanford CS 149 + CMU 15-418:** Parallel Computing
 - **MIT 6.858:** Computer Systems Security
