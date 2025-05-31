@@ -10,7 +10,6 @@ I recently graduated University of California, San Diego and am looking for work
 - I triple majored in Math, Physics, and Chemistry while at university.
 - I study computer science coursework for fun.
 
-Currently I'm doing mathematics research under the Kedlaya group at UCSD. More information about that will be given Soon™.
 <br><br><br><br><br>
 
 ## Notable Projects
@@ -36,13 +35,6 @@ Currently I'm doing mathematics research under the Kedlaya group at UCSD. More i
   - A simple web-book to teach the basics of Meiosis at the level of 8th grade.
 - **[Burger Clickers](https://github.com/ThomasSpradling/burger_clickers)** (HTML, CSS, JavaScript)
   - An addictive Cookie Clickers clone that based around hamburgers and equipped with leveling menus and a massive number system.
-
-- **Berkeley CS 188:** Introduction to Artificial Intelligence
-- **Stanford CS 149 + CMU 15-418:** Parallel Computing
-- **MIT 6.858:** Computer Systems Security
-- **Stanford CS 346:** Database System Implementation
-- **MIT 6.046:** Design and Analysis of Algorithms
-- **CMU 15-458:** Discrete Differential Geometry
 
 ## References
 The most used languages script was taken from [here](https://github.com/anuraghazra/github-readme-stats).
